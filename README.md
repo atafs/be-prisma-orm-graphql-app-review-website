@@ -1,5 +1,5 @@
-... finish 53th
-... continue on the 54. Checking If Data Exists Using Prisma Bindings
+... finish 58th
+... continue on the 59. Adding Prisma into GraphQL Queries
 
 # be-graphql-basics
 Basics for a node server from https://www.udemy.com/graphql-bootcamp/learn/v4/t/lecture/11838204?start=1
